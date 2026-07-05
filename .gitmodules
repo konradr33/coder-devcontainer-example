@@ -1,0 +1,4 @@
+[submodule ".devcontainer/coder"]
+	path = .devcontainer/coder
+	url = https://github.com/konradr33/coder-devcontainers
+	branch = node-24
